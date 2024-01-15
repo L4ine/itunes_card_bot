@@ -1,0 +1,4 @@
+aiogram
+pygsheets
+glqiwiapi
+aioredis
